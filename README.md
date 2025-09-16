@@ -21,9 +21,6 @@ a Wemos (LOLIN) D1 Mini ESP8266EX MicroController
 * https://www.amazon.com/Internet-ESP8266-Compatible-Arduino-MicroPython/dp/B0CL9CTXZH
   * Price: (~2025/08): ~$2.60 ea in 10-pack
 
-## Local Docs
-* http://wikirrt.liveintellect.org/rrtwiki/index.php/Waveshare_E-paper
-
 ## References / Tips
 * https://forum.arduino.cc/t/waveshare-e-paper-displays-with-spi/467865/2521?page=127
 * https://www.reddit.com/r/esp32/comments/1gbnu7f/epaper_displays_and_how_to_use_them/
